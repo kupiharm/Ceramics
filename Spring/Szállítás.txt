@@ -18,3 +18,16 @@ Tengern túlra (mindegy hogy USA, Canada, Ausztrália):
 EU:
 	Sima: 4-6 munkanap
 	Expressz: 1-2 munkanap
+
+6:05 Add parcell
+6:30 Service tipusok
+8:15 Súly
+8:30 Méret nem kell
+8:40 Érték
+9:00 Címzett adatai
+Adress line 1: Utca, házszám egyéb magyarázók
+City:
+County: Üresen marad ha nem USA-ba megy
+ZIP-code: beirni
+10:30 Desciption of goods
+12:45 HS-code 4409101100 Ez home decoration kódja
