@@ -1,0 +1,6 @@
+Fontos a file neve amit feltöltök nem tartalmazhat szóközt!!!
+
+A batches oldalon click az Add Batch-re
+Type -> xls
+Feltöltés után ráfrissíteni a a Batches oldalra és akkor a pdf-re kattintani a létrehozott batch alatt és meg is vannak az uj labeljaim.
+Ezen kivül a parcels oldalon egyenként is látom őket.
